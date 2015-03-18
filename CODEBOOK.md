@@ -10,9 +10,9 @@ TRANSFORMATION:
 
 VARIABLE TYPES:
 ---------------
-Activities: Character
-Subjects: Integer
-Avg_<feature_names>: Numeric
+- Activities: Character
+- Subjects: Integer
+- Avg_<feature_names>: Numeric
 
 ----------------------------------------
 
